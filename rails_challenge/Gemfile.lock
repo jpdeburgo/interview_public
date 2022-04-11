@@ -166,6 +166,7 @@ DEPENDENCIES
   byebug
   factory_bot_rails (~> 4.11)
   jbuilder (~> 2.0)
+  mimemagic (~> 0.3.8)
   rails (~> 5.2.4)
   rspec (~> 3.4)
   rspec-rails (~> 3.4)
